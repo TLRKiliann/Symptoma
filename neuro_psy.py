@@ -9,8 +9,8 @@ import subprocess
 
 class Application(Frame):
     def __init__(self, boss=None):
-        Frame.__init__(self, borderwidth=5, bg='navy', padx=20, pady=20, relief=GROOVE)
-        self.master.title('ANGEL-VISION - Developed by ko@l@tr33 - 2020')
+        Frame.__init__(self, borderwidth=5, bg='deep sky blue', padx=20, pady=20, relief=GROOVE)
+        self.master.title('Symptoma - Developed by ko@l@tr33 - 2020')
 
         # ScrollCanvas limite de la zone à parcourir avec la barre
         self.can = Canvas(self, width=1250, height=800, bg='aquamarine')
@@ -22,11 +22,16 @@ class Application(Frame):
         self.photo = PhotoImage(file='./picgif/bg.png')
         self.item = self.can.create_image(625, 400, image=self.photo)
         # Insertion of text
-        self.can.create_text(625, 420, anchor=CENTER, 
-            text="Hello", font=('Times New Roman', 18, 'bold'), fill='turquoise')
-        self.can.create_text(1240, 770, anchor=NE, text="ko@l@tr33",
-            font=('Times', 12), fill='turquoise')
+        self.can.create_text(300, 100, anchor=CENTER, 
+            text="Text below to read search", font=('Times New Roman', 18, 'bold'), fill='navy')
+        self.can.create_text(980, 540, anchor=NE, text="ko@l@tr33",
+            font=('Times', 12), fill='navy')
         self.can.pack(side=LEFT, fill=BOTH, expand=YES)
+
+        self.top = Frame(self.can, bg='aquamarine')
+        self.bottom = Frame(self.can)
+        self.top.pack(side=TOP, pady=2)
+        self.bottom.pack(side=BOTTOM, fill=BOTH, expand=YES)
 
         def searchExpress():
             """
@@ -68,25 +73,33 @@ class Application(Frame):
 
         # Text entry
         self.regexpi_var = StringVar()
-        self.reachDate = Entry(self.can, textvariable=self.regexpi_var)
-        self.reachDate.pack(pady=20)
+        self.reachDate = Entry(self.can, textvariable=self.regexpi_var, width=40)
+        self.regexpi_var.set("Enter a syndrom here")
+        self.reachDate.pack(in_=self.top, side=LEFT, padx=10, pady=20)
 
         # Button to search text entry
         self.buttonSearch = Button(self.can, text='Search', width=8, bd=3,
             fg='navy', bg='cyan', highlightbackground='darkblue',
-            activebackground='dark turquoise', command=searchExpress)
-        self.buttonSearch.pack(pady=20)
-
+            activebackground='light blue', command=searchExpress)
+        self.buttonSearch.pack(in_=self.top, side=LEFT, padx=10, pady=20)
 
         def upDateAll():
             self.master.destroy()
             subprocess.call('./neuro_psy.py')
 
-        # Button to search text entry
+        # Button to update
         self.buttonSearch = Button(self.can, text='Refresh', width=8, bd=3,
             fg='navy', bg='cyan', highlightbackground='darkblue',
-            activebackground='dark turquoise', command=upDateAll)
-        self.buttonSearch.pack(pady=20)
+            activeforeground='yellow',
+            activebackground='light blue', command=upDateAll)
+        self.buttonSearch.pack(in_=self.top, side=LEFT, padx=10, pady=20)
+
+        # Button to quit
+        self.buttonSearch = Button(self.can, text='Quit', width=8, bd=3,
+            fg='white', bg='DodgerBlue2', highlightbackground='darkblue',
+            activeforeground='red',
+            activebackground='light blue', command=quit)
+        self.buttonSearch.pack(in_=self.top, side=LEFT, padx=10, pady=20)
 
         # TextBox
         self.textBox=Text(self.can, height=20, width=80, font=18, relief=SUNKEN)
