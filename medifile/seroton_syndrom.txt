@@ -1,0 +1,92 @@
+Syndrome serotoninergique
+
+Le syndrome sérotoninergique est un effet indésirable potentiellement mortel qui 
+est la conséquence d'un excès d'activité de la sérotonine au niveau central et 
+périphérique. Il peut survenir tant à dose thérapeutique qu'en cas de surdosage, 
+mais il est le plus souvent la conséquence d'une interaction entre plusieurs 
+médicaments sérotoninergiques. Le syndrome survient le plus souvent dans les 24 
+heures et même dans les 6 heures qui suivent le début, le changement, l'ajout ou 
+même l'arrêt d'un médicament. Le syndrome sérotoninergique a également été 
+observé au début d'un traitement par un médicament sérotoninergique suivant de 
+trop près l'arrêt d'un autre médicament sérotoninergique. Il est conseillé de 
+respecter un intervalle de 1 à 2 semaines en fonction de la demi-vie de la 
+molécule (5 semaines pour la fluoxétine).
+
+Le syndrome se présente comme une triade
+
+    Modification de l'état mental (angoisse, agitation, confusion, 
+    fébrilité, désorientation, délirium, convulsions, coma).
+    Symptômes neuromusculaires (rigidité, tremblements, nystagmus, 
+    myoclonies, ataxie, hyperréflexie, hypertonie (des membres inférieurs surtout)).
+    Instabilité du système nerveux autonome : hypertension, hypotension, tachycardie, tachypnée, hyperthermie, mydriase, transpiration abondante, diarrhée.
+
+Cette triade n'est pas toujours présente : en pratique clinique, l'apparition de clonies et d'hyperréflexie chez un patient traité par un médicament sérotoninergique doit faire penser au diagnostic.
+Quelques interactions
+
+La plupart des patients ayant présenté le syndrome étaient traités par un antidépresseur inhibiteur de la monoamine-oxydase ou par un inhibiteur spécifique de la recapture de la sérotonine en combinaison avec au moins un autre agent sérotoninergique.
+
+Une étude française portant sur 125 patients présentant un syndrome sérotoninergique a montré que 40 % d'entre eux ont développé le syndrome au cours d'un traitement avec un seul médicament sérotoninergique, principalement un inhibiteur spécifique de la recapture de la sérotonine (ISRS) ou la venlafaxine et que dans 60% des cas il s'agissait d'une interaction médicamenteuse, essentiellement entre le tramadol et un ISRS.
+La sérotonine
+
+La sérotonine ou 5-hydroxytryptamine est un neurotransmetteur doué de nombreuses fonctions. La sérotonine ne passe pas la barrière hémato-méningée et est synthétisée au niveau central et périphérique par décarboxylation et hydroxylation d'un acide aminé, le tryptophane. Une fois produite, la sérotonine est stockée ou rapidement inactivée par la monoamine-oxydase (MAO).
+
+    La sérotonine est l'un des 3 neurotransmetteurs le plus souvent associé à des symptômes dépressifs.
+    Toutefois il y a également dans l'organisme 7 sous-types de récepteurs situés en dehors du système nerveux central.
+    La sérotonine agit comme neurotransmetteur au niveau du système nerveux central, et influence l'humeur, la personnalité, le sommeil, la sexualité, le comportement affectif, la perception de la douleur, la régulation hormonale et thermique, l'état d'éveil, le comportement alimentaire, les nausées et vomissements...
+    Au niveau du système nerveux périphérique, la sérotonine agit sur la régulation de la motilité intestinale et la vasomotricité.
+    Une concentration optimale de sérotonine influence favorablement la qualité de vie mais des quantité excessives ont des conséquences néfastes qui se manifestent par un syndrome sérotoninergique.
+    Le syndrome sérotoninergique peut survenir tant chez l'homme que chez l'animal.
+
+On distingue 4 mécanismes principaux par lesquels un médicament peut provoquer un syndrome sérotoninergique
+
+    Diminution de l'inactivation de la sérotonine (c'est le cas par exemple des inhibiteurs de la monoamine-oxydase ou du linezolid)
+    Diminution de la recapture de la sérotonine (par exemple ISRS, inhibiteurs de la recapture de la sérotonine et de la noradrénaline, antidépresseurs tricycliques, amphétamines, cocaïne, MDMA, tramadol)
+    Augmentation de la libération de la sérotonine (amphétamines, MDMA, lithium)
+    Augmentation de la concentration des précurseurs de la sérotonine (L-tryptophane)
+
+Le diagnostic différentiel avec le syndrome malin des neuroleptiques est les plus délicat
+
+    Syndrome sérotoninergique: plutôt brutal que progressif, récupération rapide, myoclonies et tremblements, réflexes augmentés, mydriase.
+    Syndrome neuroleptique malin: plutôt progressif que brutal, longue durée, rigidité diffuse, réflexes diminués, pupilles normales.
+
+Liste (non exhaustive) des médicaments les plus souvent en cause dans le syndrome sérotoninergique
+Antidépresseurs:
+
+    IMAO-A, irréversible: isocarboxazide, phénelzine
+    IMAO-A, réversible: moclobémide
+    IMAO-B: sélégiline, rasagiline
+    IRSN: duloxétine, venlafaxine
+    ISRS: citalopram, escitalopram, fluoxétine, paroxétine, sertraline
+    Tricycliques: amitriptyline, amoxapine, clomipramine, désipramine, dosulépine, doxépine, imipramine, nortriptyline, protriptyline
+    Autres : bupropion, lithium miansérine, mirtazapine, trazodone.
+    Opiacés: buprénorphine, dextrométorphan, fentanyl, morphine, oxycodone, pentazocine, tramadol
+    Antimigraineux /triptans (agonistes 5-HT1): triptans: almotriptan, élétriptan, frovatriptan, naratriptan, rizatriptan, sumatriptan, zolmitriptan, dihydro-ergotamine
+    Stimulants du système nerveux central: Amphetamine, atomoxetine, cocaïne, LSD, MDA, MDMA (“ecstasy”)
+    Médicaments de l’obésité: Sibutramine, phytopharmacie, millepertuis.
+    Antibiotiques: Linezolid
+    Antiémétiques: Ondansetron
+    Acide aminé: L-tryptophane
+    Antiviraux: Ritonavir
+
+Autres:
+
+    Dapoxétine, olanzapine, bleu de méthylène
+    IMAO-A: inhibiteurs de la monoamine oxidase A; IMAO-B: inhibiteurs de la monoamine oxidase B;5-HT1: 5-hydroxytryptamine1
+    LSD: diéthylamide de l’acide lysergique
+    MDA: méhylenedioxyamphétamine; MDMA: 3,4-méthylenedioxymethamphétamine
+    IRNS: inhibiteurs de la recapture de la noradrénaline et de la sérotonine
+    ISRS: inhibiteurs sélectifs de la recapture de la sérotonine.
+
+Traitements
+
+Hospitalisation, arrêt du ou des médicaments en cause : les symptômes disparaissent souvent 24 à 72 heures après. Surveillance de la fonction rénale, des électrolytes, des créatine kinases et de l'équilibre hydrique. Agitation: benzodiazépines (ex. diazépam). En cas de symptomatologie très importante, une sédation avec intubation et curarisation peut-être nécessaire. Convulsions: benzodiazépines (diazépam, lorazepam ou midazolam) et/ou barbituriques i.v.
+
+Hypertension réfractaire à la sédation aux benzodiazépines : choisir un médicament à courte durée d'action: esmolol ou nitroglycérine. Les médicaments à longue durée d'action comme le propranonol sont à éviter: l'instabilité du système nerveux autonome peut évoluer rapidement vers une hypotension importante. Hypotension: hydratation par voie intraveineuse pour combattre l'hypotension et la perte de liquide provoquée par l'hyperthermie. Vasopresseurs: noradrénaline, adrénaline. Les vasopresseurs possédant une action dopaminergique peuvent en théorie aggraver le syndrome sérotoninergique. Hyperthermie: hydratation par voie intraveineuse, refroidissement externe, contrôle de l'hyperactivité musculaire par benzodiazépines et curarisants non dépolarisants.
+Antagonistes de la sérotonine
+
+La cyproheptadine est un antihistaminique et un antagoniste de la sérotonine. La cyproheptadine n'accélère pas la guérison, elle constitue un traitement symptomatique qui améliore le confort du patient (recommandation de grade C). Elle peut être proposée lorsque la température dépasse 38,5 C° ou en cas de rigidité musculaire importante.
+Nombre de cas de syndrome sérotoninergique annoncés à Swissmedic entre 1998 et 2009 selon le médicament incriminé
+
+Plusieurs médicaments possibles par patient. Médicaments Cas Médicaments Cas ISRS 57 Citalopram 14, Sertraline 12, Escitalopram 10 Paroxétine 9, Fluvoxamine 7, Fluoxétine 5, IRSN 33, Venlafaxine 29, Duloxétine 4, Autres anti- 23, dépresseurs Mirtazapine 11, Trazodone 6, Millepertuis 4, Réboxétine 1, Miansérine 1, Tricycliques 16, Amitriptyline 6, Clomipramine 5, Trimipramine 4, Opipramol 1, IMAO 5, Moclobémide 5, Thymorégulateurs 12, Lithium 12, Opiacés 22, Tramadol 19, Fentanyl 1, Codéine 1, Méthadone 1, Autres médicaments 23, Linézolide 3, Valproate 3, Sibutramine 2, Méthylphénidate 2, Cocaïne 2, Varénicline 2, Quétiapine 2, Carbamazépine 1, Clométhiazole 1, Bleu de méthylène 1, Pipampérone 1, Lévomépromazine 1, Clozapine 1, Amisulpride 1.
+
+Circonstances de survenue d’un syndrome sérotoninergique lors de monothérapie et d’association d’agents sérotoninergiques dans les 102 cas annoncés à Swissmedic. Plusieurs circonstances possibles par patient. Circonstances Nombre de cas Monothérapie (38 cas), Introduction du traitement 17, Augmentation de la posologie 6, Substitution de traitement 2, Interaction pharmacocinétique 9, Surdosage intentionnel ou accidentel 0, Non précisé 5, Association (64 cas), Introduction du traitement 37, Augmentation de la posologie 10, Substitution de traitement 1, Interaction pharmacocinétique 11, Surdosage intentionnel ou accidentel 9, Non précisé 13.
