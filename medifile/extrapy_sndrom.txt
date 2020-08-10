@@ -1,0 +1,104 @@
+Le système extrapyramidal
+
+Le système extrapyramidal qui est constitué par: le striatum (putamen + noyau caudé (caudate nucleus)), 
+pallidum (globus pallidus), locus niger (LN), thalamus (noyau antérieur et ventro-latéral) et noyaux 
+sous-thalamiques (corps de Luys, noyau rouge...) (pour en voir plus :image 2) joue un rôle majeur 
+dans la régulation du mouvement volontaire. L’atteinte de la boucle dopaminergique nigro-striée est le 
+principal mécanisme des syndromes extrapyramidaux. La diminution de la synthèse de dopamine au niveau 
+du LN (ou le blocage des récepteurs) entraîne une levée de l’inhibition normalement exercée sur les 
+neurones cholinergiques du striatum (par l’intermédiaire de neurones GABAergiques). L’akinésie en est 
+la traduction clinique. L’interprétation des autres signes (tremblement, rigidité) est plus difficile 
+et fait intervenir probablement l’atteinte d’autres voies.
+LE SYNDROME EXTRAPYRAMIDAL
+
+Le Syndrome extrapyramidal (syndrome neuroleptique ou syndrome parkinsonien), survient au début du traitement. 
+Il survient généralement avec les neuroleptiques incisifs et peut être traité par des antagonistes tels que 
+des antiparkinsoniens anticholinergiques. Leur usage systématique est toutefois contesté. Les principales 
+manifestations cliniques de ce syndrome extrapyramidal sont :
+
+    Ataxie
+        Trouble de la coordination qui affecte le mouvement volontaire et perturbe les contractions musculaires 
+        nécessaires aux ajustements posturaux et à la station debout Classiquement, l’ataxie désignait un 
+        trouble de la coordination par atteinte de la sensibilité profonde ; en fait, on y intègre actuellement 
+        l’incoordination cérébelleuse et les déséquilibres vestibulaires
+            Ataxie proprioceptive: aggravée par l’occlusion des yeux Romberg, marche talonnante, épreuve 
+            doigt/nez, talon/genou, perte de la sensibilité à la pression
+            Ataxie labyrinthique: troubles de la statique et de l’exécution du mouvement
+            Ataxie cérebelleuse: trouble de l’équilibre à la marche et la station debout
+
+    Akinésie
+        C'est la réduction et surtout la lenteur d'initiation des gestes. Les mouvements sont rares, lents, 
+        parfois impossibles.
+        L'akinésie se manifeste surtout pour les mouvements automatiques : mimique faciale et marche.
+            Marche à petits pas. L'initiation de la marche est difficile, « bégayante » (abasie trépidante ou 
+            freezing) et le ballant automatique des bras a disparu.
+            Faciès figé ou amimie faciale. Perte des mouvements automatiques de la face accompagnant 
+            habituellement les émotions ou la parole. Disparation ou rareté du clignement.
+        L'akinésie est variable dans le temps, avec des kinésies paradoxales (festinations : la marche 
+        s'accélère soudainement et peut engendrer une chute), de fluctuations circadiennes (c'est-à-dire au 
+        cours du nycthémère). L'akinésie est accrue ou déclenchée par l'émotion, la fatigue, un obstacle visuel.
+
+    Diction monotone
+        Dysarthrie parkinsonienne : l'élocution est monotone avec des troubles du débit, soit ralentie 
+        (bradyphémie) ou au contraire accélérée (tachyphémie).
+
+    Dyskinésies
+        Activité motrice involontaire, lente et stéréotypée.
+
+    Rigidité (hypertonie extrapyramidale)
+        C'est une résistance aux mouvements passifs imposés aux membres par l'examinateur. Elle est plastique, 
+        comparée à un tuyau de plomb et cède par à coups : phénomènes de la roue dentée.
+            plastique (tuyau de plomb)
+            signe de Froment et phénomène de la roue dentée
+            prédomine sur les fléchisseurs
+
+    Tremblement au repos (oscillations rythmiques involontaires)
+    
+    Tremblement parkinsonien (prédomine aux extrémités des membres, ne touche jamais la tête)
+
+    Hypersialorrhée
+        Salivation excessive ou hyper-salivation.
+
+Elles peuvent être associées à un syndrome akinéto-hypertonique (akathisie ou impossibilité de rester assis, 
+tasikinésie ou impossibilité de rester immobile) : Ces dyskinésies précoces peuvent être transitoires et 
+régressives. Les bêta bloquants et les benzodiazépines permettent de corriger certains effets dyskinétiques.
+Syndrome parkinsonien (extrapyramidal)
+
+L’origine iatrogène (prise de neuroleptiques) doit être recherchée de façon systématique devant tout syndrome 
+parkinsonien.
+
+On peut distinguer des syndromes parkinsoniens dégénératifs atypiques:
+
+    Atrophie multisystématisée et démence à corps de Lewy dans le cadre des synucléinopathies.
+    Paralysie supranucléaire progressive et dégénérescence corticobasale dans le cadre des tauopathies 
+    (dégénérescence fronto-temporale, alzheimer, parkinson, maladie de Steele-Richardson, maladie de Pick...).
+
+Le syndrome extrapyramidal est, en pratique, un ensemble de syndromes moteurs où l'on classe d'une part le 
+syndrome parkinsonien, d'autre part les mouvements involontaires.
+
+Les 3 symptômes majeurs sont:
+
+    Le tremblement au repos
+    La bradykinésie ou l'akinésie
+    L'hypertonie (rigidité, mouvement en roue dentée)
+
+L'examen neurologique pour déceler les symptômes passe par :
+
+    La manoeuvre de Froment (permet de tester les extrémités au niveau des pouces des 2 mains.)
+    Tremblement au repos (l'amplitude augmente aux émotions et au calcul mental, mais disparaît lors d'un 
+    mouvement volontaire (comme boire un verre d'eau). Il peut toucher les lèvres et le menton, mais jamais 
+    l'ensemble de la tête.
+    La manoeuvre de Barré.
+
+Diagnostic différentiel
+
+Tremblement d'attitude
+
+Il importe de différencier un tremblement de repos d'un tremblement d'attitude. En effet, les deux peuvent 
+s'observer au cours d'un syndrome parkinsonien, mais seul le tremblement de repos est caractéristique. Le 
+tremblement d'attitude, bien mis en évidence lors de l'épreuve des bras tendus ou lors de l'épreuve des index 
+mis l'un face à l'autre, est typiquement rapide, et surtout disparaît au repos vrai. Un tremblement isolé de 
+la tête (tremblement du chef) n'est pas parkinsonien.
+
+Plus rarement, le tremblement peut atteindre les membres inférieurs et les pieds, ou encore le contour de la 
+bouche, mais ne touche jamais la tête (à la différence du tremblement essentiel).
