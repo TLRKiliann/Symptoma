@@ -38,20 +38,23 @@ class Application(Frame):
             To read into right file
             """
             mot = self.regexpi_var.get()
-            if (mot == str("syndrome extrapyramidal")) or (mot == str("extrapyramidal syndrom")):
+            if (mot == str("syndrome extrapyramidale")) or (mot == str("extrapyramidal syndrom")):
                 importationExtrapy()
-                print("Ok, ici c'est extra...pyramidale")
+                print("+ File open : extrapyramidale...")
             elif (mot == str("syndrome neuroleptique")) or (mot == str("neuroleptic syndrom")):
                 importationNeuro()
-                print("Ok, là c'est neuro...")
+                print("+ File open : neurologique...")
             elif (mot == str("syndrome anticholinergique")) or (mot == str("anticholinergic syndrom")):
                 importationAnticho()
-                print("Ok, ici c'est anticho...")
+                print("+ File open : anticholinergique...")
             elif (mot == str("syndrome serotoninergique")) or (mot == str("serotoninergic syndrom")):
                 importationSeroton()
-                print("Ok, ici c'est serotoni...")                
+                print("+ File open : serotoninergique...") 
+            elif (mot == str("syndrome hyperkinetique")) or (mot == str("hyperkinetic syndrom")):
+                importationHyperkin()
+                print("+ File open : hyperkinetique...")                
             else:
-                print("Ici, c'est la merde...")
+                print("+ File was not found !!!")
 
         # Display text in textbox from medifile files
         def importationNeuro():
@@ -100,6 +103,18 @@ class Application(Frame):
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote4:
                 print("+ Sorry, file 'seroton_syndrom.txt' does not exist !", outnote4)
+
+        # Display text in textbox from medifile files
+        def importationHyperkin():
+            try:
+                if os.path.getsize('./medifile/hyperkin_syndrom.txt'):
+                    print("+ File 'hyperkin_syndrom.txt' exist (read)!")
+                    with open('./medifile/hyperkin_syndrom.txt', 'r') as textfile5:
+                        lines = textfile5.readlines()
+                        for li in lines:
+                            self.textBox.insert(END, li)
+            except FileNotFoundError as outnote5:
+                print("+ Sorry, file 'hyperkin_syndrom.txt' does not exist !", outnote5)
 
         # Text entry
         self.regexpi_var = StringVar()
