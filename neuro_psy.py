@@ -35,29 +35,40 @@ class Application(Frame):
 
         def searchExpress():
             """
-            To read into right file
+                Recatch the regexpi_var value
+                to display the good text.
             """
             mot = self.regexpi_var.get()
-            if (mot == str("syndrome extrapyramidale")) or (mot == str("extrapyramidal syndrom")):
+            if (mot == str("extra")) or (mot == str("extrapyramidal")):
                 importationExtrapy()
                 print("+ File open : extrapyramidale...")
-            elif (mot == str("syndrome neuroleptique")) or (mot == str("neuroleptic syndrom")):
+            elif (mot == str("neuro")) or (mot == str("neuroleptic")):
                 importationNeuro()
                 print("+ File open : neurologique...")
-            elif (mot == str("syndrome anticholinergique")) or (mot == str("anticholinergic syndrom")):
+            elif (mot == str("anticho")) or (mot == str("anticholinergic")):
                 importationAnticho()
                 print("+ File open : anticholinergique...")
-            elif (mot == str("syndrome serotoninergique")) or (mot == str("serotoninergic syndrom")):
+            elif (mot == str("sero")) or (mot == str("serotoninergic")):
                 importationSeroton()
                 print("+ File open : serotoninergique...") 
-            elif (mot == str("syndrome hyperkinetique")) or (mot == str("hyperkinetic syndrom")):
+            elif (mot == str("hyperkinetique")) or (mot == str("hyperkinetic")):
                 importationHyperkin()
                 print("+ File open : hyperkinetique...")                
             else:
                 print("+ File was not found !!!")
+                self.textBox.delete('0.0', END)
+                self.textBox.insert(INSERT, "This syndrom does not exist !\n")
+                self.textBox.insert(INSERT, "---------------------------------------\n")
+                self.textBox.insert(INSERT, "Choice one syndrom among :\n")
+                self.textBox.insert(INSERT, "extrapyramidal, neuroleptic, anticholinergic\n")
+                self.textBox.insert(INSERT, "serotoninergic, hyperkinetic\n")
+                self.textBox.insert(INSERT, "or just type neuro, sero, extra, anticho\n")
+                self.textBox.update()
 
         # Display text in textbox from medifile files
         def importationNeuro():
+            self.textBox.delete('0.0', END)
+            self.textBox.update()
             try:
                 if os.path.getsize('./medifile/neuro_syndrom.txt'):
                     print("+ File 'neuro_syndrom.txt' exist (read)!")
@@ -70,6 +81,8 @@ class Application(Frame):
 
         # Display text in textbox from medifile files
         def importationExtrapy():
+            self.textBox.delete('0.0', END)
+            self.textBox.update()
             try:
                 if os.path.getsize('./medifile/extrapy_syndrom.txt'):
                     print("+ File 'extrapy_syndrom.txt' exist (read)!")
@@ -82,6 +95,8 @@ class Application(Frame):
 
         # Display text in textbox from medifile files
         def importationAnticho():
+            self.textBox.delete('0.0', END)
+            self.textBox.update()
             try:
                 if os.path.getsize('./medifile/anticho_syndrom.txt'):
                     print("+ File 'anticho_syndrom.txt' exist (read)!")
@@ -94,6 +109,8 @@ class Application(Frame):
 
         # Display text in textbox from medifile files
         def importationSeroton():
+            self.textBox.delete('0.0', END)
+            self.textBox.update()
             try:
                 if os.path.getsize('./medifile/seroton_syndrom.txt'):
                     print("+ File 'seroton_syndrom.txt' exist (read)!")
@@ -106,12 +123,15 @@ class Application(Frame):
 
         # Display text in textbox from medifile files
         def importationHyperkin():
+            self.textBox.delete('0.0', END)
+            self.textBox.update()
             try:
                 if os.path.getsize('./medifile/hyperkin_syndrom.txt'):
                     print("+ File 'hyperkin_syndrom.txt' exist (read)!")
                     with open('./medifile/hyperkin_syndrom.txt', 'r') as textfile5:
                         lines = textfile5.readlines()
                         for li in lines:
+                            self.textBox.delete('0.0', END)
                             self.textBox.insert(END, li)
             except FileNotFoundError as outnote5:
                 print("+ Sorry, file 'hyperkin_syndrom.txt' does not exist !", outnote5)
@@ -148,6 +168,8 @@ class Application(Frame):
 
         # TextBox
         self.textBox=Text(self.can, height=20, width=80, font=18, relief=SUNKEN)
+        self.textBox.insert(INSERT, "Wellcome !\n")
+        self.textBox.insert(END, "Choice a syndrom into text area and click 'search'.")
         self.textBox.pack(padx=100, pady=50)
 
         self.pack()
